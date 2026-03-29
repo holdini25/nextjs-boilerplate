@@ -1,0 +1,44 @@
+
+> nextjs@0.1.0 dev
+> next dev --hostname localhost --port 3001
+
+▲ Next.js 16.2.0 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://localhost:3001
+✓ Ready in 697ms
+Creating turbopack project { dir: 'C:\\Users\\holde\\nextjs-boilerplate', testMode: true }
+
+ GET /about 200 in 3.2s (next.js: 744ms, application-code: 2.4s)
+ GET /about 200 in 1546ms (next.js: 254ms, application-code: 1292ms)
+ GET /solutions/bridge-power 200 in 1552ms (next.js: 107ms, application-code: 1445ms)
+ GET /solutions/bridge-power 200 in 1563ms (next.js: 352ms, application-code: 1211ms)
+ GET /solutions/bridge-power 200 in 2.2s (next.js: 19ms, application-code: 2.2s)
+ GET /about 200 in 1694ms (next.js: 16ms, application-code: 1678ms)
+ GET /about 200 in 1694ms (next.js: 242ms, application-code: 1453ms)
+ GET /solutions/bridge-power 200 in 1703ms (next.js: 136ms, application-code: 1567ms)
+ GET /platform 200 in 385ms (next.js: 69ms, application-code: 315ms)
+ GET / 200 in 233ms (next.js: 99ms, application-code: 134ms)
+✓ Compiled in 736ms
+ GET / 200 in 1070ms (next.js: 246ms, application-code: 824ms)
+ GET / 200 in 565ms (next.js: 10ms, application-code: 555ms)
+ GET / 200 in 361ms (next.js: 150ms, application-code: 211ms)
+ GET / 200 in 365ms (next.js: 14ms, application-code: 351ms)
+✓ Compiled in 144ms
+ GET / 200 in 188ms (next.js: 8ms, application-code: 180ms)
+✓ Compiled in 125ms
+ GET / 200 in 189ms (next.js: 7ms, application-code: 182ms)
+✓ Compiled in 244ms
+ GET / 200 in 178ms (next.js: 9ms, application-code: 169ms)
+✓ Compiled in 229ms
+ GET / 200 in 486ms (next.js: 31ms, application-code: 455ms)
+ GET / 200 in 1306ms (next.js: 10ms, application-code: 1296ms)
+ GET /platform 200 in 592ms (next.js: 395ms, application-code: 197ms)
+ GET /about 200 in 495ms (next.js: 342ms, application-code: 152ms)
+ GET /about 200 in 2.6s (next.js: 32ms, application-code: 2.6s)
+ GET /about 200 in 2.2s (next.js: 691ms, application-code: 1472ms)
+ GET /solutions/bridge-power 200 in 2.2s (next.js: 569ms, application-code: 1675ms)
+ GET /solutions/bridge-power 200 in 2.3s (next.js: 394ms, application-code: 1863ms)
+ GET /platform 200 in 716ms (next.js: 24ms, application-code: 692ms)
+ GET /about 200 in 621ms (next.js: 85ms, application-code: 536ms)
+ GET /contact?intent=capacity-audit&source=header 200 in 135ms (next.js: 74ms, application-code: 60ms)
+[?25h
